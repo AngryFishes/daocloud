@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class MyService {
 
     public int add(int a,int b){
-        return a+b;//
+        return a+b;
     }
 
 }
